@@ -8,13 +8,6 @@
 <fanart></fanart>
 <info>
 
-
-[COLOR deeppink]|[/COLOR] *lista atualizada semanalmente* [COLOR deeppink]|[/COLOR]</info>
-</channel>
-</channels>
-
-
-
 <item>
 <title>[B]FAMILIA DO BAGULHO  - [COLOR yellow](ANO LANÇAMENTO)[/COLOR] - [COLOR lime](RESOLUÇÃO)[/COLOR] - DUBLADO OU LEGENDADO[/B]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=$$lsname=[COLOR lime](RESOLUÇÃO)[/COLOR] - https://drive.google.com/file/d/1TuoRLnW0rC6sDaU2PD5uvN31K_u-UcrT/view </link>
@@ -25,3 +18,11 @@
 <info></info>
 <genre></genre>
 </item>
+
+
+[COLOR deeppink]|[/COLOR] *lista atualizada semanalmente* [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+
+
