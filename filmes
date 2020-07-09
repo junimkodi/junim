@@ -9,7 +9,7 @@
 <info>
 
 
-[COLOR deeppink]|[/COLOR] - NO COMENT- [COLOR deeppink]|[/COLOR]</info>
+[COLOR deeppink]|[/COLOR] - MELHORES FILMES VOCE ENCONTRA AQUI - [COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels>
 
@@ -17,14 +17,29 @@
 
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]SERIES [/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<name>[COLOR indigo]SERIES[/COLOR]</name>
 <thumbnail></thumbnail>
-<externallink>https://</externallink>
+<externallink>https://raw.githubusercontent.com/junimkodi/junim/master/series</externallink>
 <fanart></fanart>
 <info>
 
 
-[COLOR deeppink]|[/COLOR] - SERIADOS - [COLOR deeppink]|[/COLOR]</info>
+[COLOR deeppink]|[/COLOR] - VENHA VER SUAS SERIES FAVORITAS!! - [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[COLOR indigo]DESENHOS[/COLOR]</name>
+<thumbnail></thumbnail>
+<externallink>https://raw.githubusercontent.com/junimkodi/junim/master/desenhos</externallink>
+<fanart></fanart>
+<info>
+
+
+[COLOR deeppink]|[/COLOR] - DESENHOS PARA CRIANÇADA!! - [COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels>
 
