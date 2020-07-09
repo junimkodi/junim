@@ -2,7 +2,7 @@
 
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]FILMES [/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<name>[COLOR orangered]|||[/COLOR] [COLOR white]FILMES [/COLOR] [COLOR orangered]|||[/COLOR]</name>
 <thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/junimkodi/junim/master/top10</externallink>
 <fanart></fanart>
@@ -17,7 +17,7 @@
 
 <channels>
 <channel>
-<name>[COLOR indigo]SERIES[/COLOR]</name>
+<name>[COLOR orangered]|||[/COLOR] [COLOR indigo]SERIES[/COLOR] [COLOR orangered]|||[/COLOR]</name>
 <thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/junimkodi/junim/master/series</externallink>
 <fanart></fanart>
@@ -32,14 +32,14 @@
 
 <channels>
 <channel>
-<name>[COLOR indigo]DESENHOS[/COLOR]</name>
+<name>[COLOR orangered]|||[/COLOR] [COLOR indigo]DESENHOS[/COLOR] [COLOR orangered]|||[/COLOR]</name>
 <thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/junimkodi/junim/master/desenhos</externallink>
 <fanart></fanart>
 <info>
 
 
-[COLOR deeppink]|[/COLOR] - DESENHOS PARA CRIANÇADA!! - [COLOR deeppink]|[/COLOR]</info>
+[COLOR deeppink]|[/COLOR] - DESENHOS PARA TODA CRIANCADA!! - [COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels>
 
