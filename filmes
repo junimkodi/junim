@@ -17,7 +17,7 @@
 
 <channels>
 <channel>
-<name>[COLOR orangered]|||[/COLOR] [COLOR indigo]SERIES[/COLOR] [COLOR orangered]|||[/COLOR]</name>
+<name>[COLOR orangered]|||[/COLOR] [COLOR white]SERIES[/COLOR] [COLOR orangered]|||[/COLOR]</name>
 <thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/junimkodi/junim/master/series</externallink>
 <fanart></fanart>
@@ -32,7 +32,7 @@
 
 <channels>
 <channel>
-<name>[COLOR orangered]|||[/COLOR] [COLOR indigo]DESENHOS[/COLOR] [COLOR orangered]|||[/COLOR]</name>
+<name>[COLOR orangered]|||[/COLOR] [COLOR white]DESENHOS[/COLOR] [COLOR orangered]|||[/COLOR]</name>
 <thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/junimkodi/junim/master/desenhos</externallink>
 <fanart></fanart>
