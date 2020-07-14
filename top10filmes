@@ -38,7 +38,19 @@
 <genre></genre>
 </item>
 
+<item>
+<title>[B] REDE SUPER - [COLOR yellow](  )[/COLOR] - [COLOR lime]()[/COLOR][/B]</title>
+<link>http://painel.tvdigitalsbl.net:8081/live/netiptv466/466/1089.ts</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+</item>
 
 
+
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://goo.gl/zVeHCJ"group-title="TV ABERTA", TV CULTURA (GO)
+http://rsync.com.br:1935/rsync00026/rsync.sdp/playlist.m3u8
 
 
