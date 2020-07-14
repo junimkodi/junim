@@ -47,11 +47,15 @@
 <genre></genre>
 </item>
 
+<item>
+<title>[B] teste - [COLOR yellow](  )[/COLOR] - [COLOR lime]()[/COLOR][/B]</title>
+<link>rtmp://109.200.202.124/live</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+</item>
 
-#EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/mtvb.png" group-title="VARIEDADES", MTV CLIPES 1
-http://rtmp.one.by:1200
 
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://goo.gl/zVeHCJ"group-title="TV ABERTA", TV CULTURA (GO)
-http://rsync.com.br:1935/rsync00026/rsync.sdp/playlist.m3u8
-
-rtmp://$OPT:rtmp-raw=rtmp://95.168.199.245:1935/live playpath=bns1 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/Sportsiptv token=%ZZri(nKa@#Z
+#EXTINF:-1, FILMES: STUDIO UNIVERSAL
+rtmp://$OPT:rtmp-raw=rtmp://109.200.202.124/live playpath=studio swfUrl=http://www.tv-msn.com/player/player.swf live=1 pageUrl=http://tv-msn.com/studio.html
