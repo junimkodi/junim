@@ -1,9 +1,12 @@
-<item>
-<title>[B] COMEDY CENTRAL - [COLOR yellow](  )[/COLOR] - [COLOR lime]()[/COLOR][/B]</title>
-<link>http://dwightfarrokhlistas.ddns.net:8080/live/dzZLJtbFur9BiW/n0ShakrYqxpa/63.ts</link>
+<channels>
+<channel>
+<name>[COLOR orangered]|||[/COLOR] [COLOR whiteCANAIS COMEDIA [/COLOR] [COLOR orangered]|||[/COLOR]</name>
 <thumbnail></thumbnail>
+<externallink>https://raw.githubusercontent.com/junimkodi/junim/master/canaiscomedia</externallink>
 <fanart></fanart>
-<info></info>
-<genre></genre>
-</item>
+<info>
 
+
+[COLOR deeppink]|[/COLOR] - comedia  - [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
