@@ -1,6 +1,5 @@
 
 
-<fanart>https://lh3.googleusercontent.com/proxy/7ROq704ss6oy9r5R5oiHyqfFB7xQ6XK01V1N60ZrqWb2iZy_hVk63KCF8pnsV3gzQFD1Ts1LOwVkWbCSFUDb7rUE6Es4idgPf_7m0xALiTzWuY0psfL4U_u1SNmptkXyQ4thzOtsJ31uXQjrTKdJ5_mtFdh0b2s</fanart>
 
 <item>
 <title>[B]CORINGA  - [COLOR yellow]( 2019 )[/COLOR] - [COLOR lime](720 HD CAM)[/COLOR] - DUBLADO[/B]</title>
@@ -19,50 +18,3 @@
 <info>Em Malévola - Dona do Mal, cinco anos após Aurora (Elle Fanning) despertar do sono profundo, a agora rainha dos Moors é pedida em casamento pelo príncipe Phillip (Harris Dickinson). Ela aceita o pedido e, com isso, parte rumo ao reino de Ulstead ao lado de Malévola (Angelina Jolie), no intuito de conhecer seus futuros sogros, John (Robert Lindsay) e Ingrith (Michelle Pfeiffer). O jantar entre eles deveria ser de celebração entre os reinos, mas os interesses de Ingrith vêm à tona quando é criado um atrito com Malévola e os demais seres mágicos.</info>
 <genre></genre>
 </item>
-
-<item>
-<title>[B] tv camara - [COLOR yellow](  )[/COLOR] - [COLOR lime]()[/COLOR][/B]</title>
-<link>http://stream2.camara.gov.br:8134/tv1/manifest.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-<genre></genre>
-</item>
-
-<item>
-<title>[B] REDE SUPER - [COLOR yellow](  )[/COLOR] - [COLOR lime]()[/COLOR][/B]</title>
-<link>http://api.new.livestream.com:80/accounts/10205943/events/3429501/live.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-<genre></genre>
-</item>
-
-<item>
-<title>[B] - [COLOR yellow](  )[/COLOR] - [COLOR lime]()[/COLOR][/B]</title>
-<link>rtmp://$OPT:rtmp-raw=rtmp://95.168.199.245:1935/live playpath=bns1 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/Sportsiptv token=%ZZri(nKa@#Z</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-<genre></genre>
-</item>
-
-<item>
-<title>[B] teste - [COLOR yellow](  )[/COLOR] - [COLOR lime]()[/COLOR][/B]</title>
-<link>rtmp://109.200.202.124/live</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-<genre></genre>
-</item>
-
-
-#EXTINF:-1, FILMES: STUDIO UNIVERSAL
-rtmp://$OPT:rtmp-raw=rtmp://109.200.202.124/live playpath=studio swfUrl=http://www.tv-msn.com/player/player.swf live=1 pageUrl=http://tv-msn.com/studio.html
-
-
-<div style="display:none">
-
-<div style="display:none">
-
-[B]PLAY[/B][/COLOR]&streamtype=HLSRETRY&url=http://play.nbeplayer.com:80/live/Ronaldo/Ronaldo/6394.m3u8 #EXTINF:-1 tvg-id="GLOBO TV BAHIA" tvg-name="Globo Bahia HD H265!" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="CANAIS GLOBO",Globo Bahia HD H265! plugin://plugin.video.f4mTester/?name=[COLOR red][B]EA[/B][/COLOR][COLOR white][B]PLAY[/B]
