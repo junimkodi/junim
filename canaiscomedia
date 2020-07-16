@@ -11,7 +11,7 @@
 
 <item>
 <title>[B] OS TRAPALHOES 24H  - [COLOR yellow](  )[/COLOR] - [COLOR lime]()[/COLOR][/B]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=20971520&amp;url=http://dwightfarrokhlistas.ddns.net:8080/live/dzZLJtbFur9BiW/n0ShakrYqxpa/351.ts</link>
+<link>plugin://plugin.video.f4mTester?mode=streamURL&amp;url=http://dwightfarrokhlistas.ddns.net:8080/live/dzZLJtbFur9BiW/n0ShakrYqxpa/351.ts</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info>
