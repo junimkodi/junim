@@ -1,6 +1,6 @@
 <item>
 <title>[B] OS TRAPALHOES 24H - [COLOR yellow](  )[/COLOR] - [COLOR lime]()[/COLOR][/B]</title>
-<link>http://dwightfarrokhlistas.ddns.net:8080/live/dzZLJtbFur9BiW/n0ShakrYqxpa/351.m3u8</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]GreenTV[/COLOR];url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/26169</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info>
@@ -11,7 +11,7 @@
 
 <item>
 <title>[B] OS TRAPALHOES 24H  - [COLOR yellow](  )[/COLOR] - [COLOR lime]()[/COLOR][/B]</title>
-<link>plugin://plugin.video.f4mTester?mode=streamURL&amp;url=http://dwightfarrokhlistas.ddns.net:8080/live/dzZLJtbFur9BiW/n0ShakrYqxpa/351.ts</link>
+<link>plugin://plugin.video.f4mTester/streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=20971520&amp;url=http://dwightfarrokhlistas.ddns.net:8080/live/dzZLJtbFur9BiW/n0ShakrYqxpa/351.ts</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info>
@@ -21,4 +21,3 @@
 
 plugin://plugin.video.f4mTester/?name=TWT SULAMERICANA&streamtype=TSDOWNLOADER&amp;url=http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/320.ts
 
-<link>plugin://plugin.video.f4mTester/?name=OS TRAPALHOES&streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=20971520&amp;url=http://dwightfarrokhlistas.ddns.net:8080/live/dzZLJtbFur9BiW/n0ShakrYqxpa/351.ts</link>
