@@ -9,3 +9,9 @@
 <title>CNN</title>
 <link>http://dwightfarrokhlistas.ddns.net:8080/live/dzZLJtbFur9BiW/n0ShakrYqxpa/351.ts|User-Agent=VLC</link>
 </item>
+
+
+<item>
+<title>f4m – tsdownloader</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://dwightfarrokhlistas.ddns.net:8080/live/dzZLJtbFur9BiW/n0ShakrYqxpa/351.ts</link>
+</item>
