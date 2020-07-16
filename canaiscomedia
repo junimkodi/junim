@@ -1,6 +1,6 @@
 <item>
 <title>[B] OS TRAPALHOES 24H - [COLOR yellow](  )[/COLOR] - [COLOR lime]()[/COLOR][/B]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR lime]GreenTV[/COLOR];url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/26169</link>
+<link>http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/26169</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info>
@@ -17,7 +17,3 @@
 <info></info>
 <genre></genre>
 </item>
-
-
-plugin://plugin.video.f4mTester/?name=TWT SULAMERICANA&streamtype=TSDOWNLOADER&amp;url=http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/320.ts
-
