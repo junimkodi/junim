@@ -2,7 +2,7 @@
 
 <channels>
 <channel>
-<name>[COLOR orangered]|||[/COLOR] [COLOR white]FILMES [/COLOR] [COLOR orangered]|||[/COLOR]</name>
+<name>[COLOR green]•[/COLOR] [COLOR white]FILMES [/COLOR][/COLOR]</name>
 <thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/junimkodi/junim/master/top10</externallink>
 <fanart></fanart>
@@ -17,14 +17,14 @@
 
 <channels>
 <channel>
-<name>[COLOR orangered]|||[/COLOR] [COLOR white]SERIES[/COLOR] [COLOR orangered]|||[/COLOR]</name>
+<name>[COLOR green]•[/COLOR] [COLOR white]SERIES[/COLOR] [COLOR orangered][/COLOR]</name>
 <thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/junimkodi/junim/master/series</externallink>
 <fanart></fanart>
 <info>
 
 
-[COLOR deeppink]|[/COLOR] - VENHA VER SUAS SERIES FAVORITAS!! - [COLOR deeppink]|[/COLOR]</info>
+[COLOR deeppink]|[/COLOR] -  - [COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels>
 
@@ -32,14 +32,14 @@
 
 <channels>
 <channel>
-<name>[COLOR orangered]|||[/COLOR] [COLOR white]CANAIS [/COLOR] [COLOR orangered]|||[/COLOR]</name>
+<name>[COLOR red]•[/COLOR] [COLOR white] CANAIS [/COLOR] [COLOR orangered][/COLOR]</name>
 <thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/junimkodi/junim/master/CANAIS</externallink>
 <fanart></fanart>
 <info>
 
 
-[COLOR deeppink]|[/COLOR] - CANAIS AO VIVO!! - [COLOR deeppink]|[/COLOR]</info>
+[COLOR deeppink]|[/COLOR] -Sistema indisponivel no momento - [COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels>
 
