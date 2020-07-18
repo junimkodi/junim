@@ -3,7 +3,7 @@
 
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]SEJAM BEM VINDOS - ADDON TESTE[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<name>[COLOR indigo]||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]SEJAM BEM VINDOS - RICK-ADDON[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
 <thumbnail></thumbnail>
 <externallink>https://</externallink>
 <fanart></fanart>
@@ -18,15 +18,16 @@
 
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]ENTRE AQUI[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
-<thumbnail></thumbnail>
-<externallink>https://</externallink>
-<fanart></fanart>
+<name>[COLOR indigo]ACESSAR CONTEUDO[/COLOR]</name>
+<thumbnail>https://i.imgur.com/hDhbcGr.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/junimkodi/junim/master/filmes</externallink>
+<fanart>https://i.imgur.com/NpI1yLs.jpg</fanart>
 <info>
 
 
-[COLOR deeppink]|[/COLOR] - ADICIONE AQUI A DESCRIÇÃO - [COLOR deeppink]|[/COLOR]</info>
+[COLOR deeppink]|[/COLOR] -  - [COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
