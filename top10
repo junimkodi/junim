@@ -52,7 +52,7 @@
 
 <channels>
 <channel>
-<name>[COLOR orangered]|||[/COLOR] [COLOR white] SUSPENSE [/COLOR] [COLOR orangered]|||[/COLOR]</name>
+<name>[COLOR green]•[/COLOR] [COLOR white] SUSPENSE [/COLOR]</name>
 <thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/junimkodi/junim/master/SUSPENSE</externallink>
 <fanart></fanart>
@@ -65,7 +65,7 @@
 
 <channels>
 <channel>
-<name>[COLOR orangered]|||[/COLOR] [COLOR white] DOCUMENTARIOS [/COLOR] [COLOR orangered]|||[/COLOR]</name>
+<name>[COLOR green]•[/COLOR] [COLOR white] DOCUMENTARIOS [/COLOR][/COLOR]</name>
 <thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/junimkodi/junim/master/DOCUMENTARIOS</externallink>
 <fanart></fanart>
@@ -78,7 +78,7 @@
 
 <channels>
 <channel>
-<name>[COLOR orangered]|||[/COLOR] [COLOR white] MARATONAR NA #QUARENTENA [/COLOR] [COLOR orangered]|||[/COLOR]</name>
+<name>[COLOR green]•[/COLOR] [COLOR white] MARATONAR [/COLOR]</name>
 <thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/junimkodi/junim/master/maratonar</externallink>
 <fanart></fanart>
