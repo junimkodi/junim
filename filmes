@@ -2,14 +2,17 @@
 
 <channels>
 <channel>
-<name>[COLOR green]•[/COLOR] [COLOR white]FILMES [/COLOR][/COLOR]</name>
+<name>[COLOR green]•[/COLOR] [COLOR white]FILMES [/COLOR]</name>
 <thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/junimkodi/junim/master/top10</externallink>
 <fanart></fanart>
 <info>
 
 
-[COLOR deeppink]|[/COLOR] - MELHORES FILMES VOCE ENCONTRA AQUI - [COLOR deeppink]|[/COLOR]</info>
+[COLOR deeppink]|[/COLOR] - ACÃO - [COLOR deeppink]|[/COLOR]
+[COLOR deeppink]|[/COLOR] - COMEDIA - [COLOR deeppink]|[/COLOR]
+[COLOR deeppink]|[/COLOR] - AVENTURA - [COLOR deeppink]|[/COLOR]
+[COLOR deeppink]|[/COLOR] - TERROR - [COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels>
 
@@ -25,6 +28,21 @@
 
 
 [COLOR deeppink]|[/COLOR] -  - [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[COLOR gree]•[/COLOR] [COLOR white] DESENHOS [/COLOR] [COLOR orangered][/COLOR]</name>
+<thumbnail></thumbnail>
+<externallink>https://raw.githubusercontent.com/junimkodi/junim/master/desenhos</externallink>
+<fanart></fanart>
+<info>
+
+
+[COLOR deeppink]|[/COLOR] - - [COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels>
 
