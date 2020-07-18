@@ -3,16 +3,14 @@
 
 <channels>
 <channel>
-<name>[COLOR indigo]||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]SEJAM BEM VINDOS - RICK-ADDON[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<name>[COLOR white]SEJAM BEM VINDOS - RICK-ADDON[/COLOR]</name>
 <thumbnail></thumbnail>
 <externallink>https://</externallink>
 <fanart></fanart>
 <info>
-[COLOR green]•[/COLOR] - Lista Atualizada Semanalmente - [COLOR deeppink]|[/COLOR]
-
-[COLOR green]•[/COLOR] - Conteudo OFF? Avise-nos - [COLOR deeppink]|[/COLOR]</info>
-
-[COLOR green]•[/COLOR] -  Whats app 9 3300-2248 - [COLOR deeppink]|[/COLOR]
+[COLOR green]•[/COLOR] - Lista Atualizada Semanalmente - [COLOR deeppink][/COLOR]
+[COLOR green]•[/COLOR] - Conteudo OFF? Avise-nos - [COLOR deeppink][/COLOR]
+[COLOR green]•[/COLOR] -  Whats app 9 3300-2248 - [COLOR deeppink][/COLOR]
 </info>
 
 </channel>
@@ -22,7 +20,7 @@
 
 <channels>
 <channel>
-<name>[COLOR indigo]ACESSAR CONTEUDO[/COLOR]</name>
+<name>[COLOR white]ACESSAR CONTEUDO[/COLOR]</name>
 <thumbnail>https://i.imgur.com/hDhbcGr.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/junimkodi/junim/master/filmes</externallink>
 <fanart>https://i.imgur.com/NpI1yLs.jpg</fanart>
