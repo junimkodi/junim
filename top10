@@ -1,6 +1,6 @@
 <channels>
 <channel>
-<name>[COLOR orangered]|||[/COLOR] [COLOR white] TOP 10 [/COLOR] [COLOR orangered]|||[/COLOR]</name>
+<name>[COLOR green]•[/COLOR][COLOR white] TOP 10 [/COLOR]</name>
 <thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/junimkodi/junim/master/top10filmes</externallink>
 <fanart></fanart>
@@ -13,7 +13,7 @@
 
 <channels>
 <channel>
-<name>[COLOR orangered]|||[/COLOR] [COLOR white] TERROR [/COLOR] [COLOR orangered]|||[/COLOR]</name>
+<name>[COLOR green]•[/COLOR] [COLOR white] TERROR [/COLOR][/COLOR]</name>
 <thumbnail></thumbnail>
 <externallink></externallink>
 <fanart></fanart>
@@ -26,7 +26,7 @@
 
 <channels>
 <channel>
-<name>[COLOR orangered]|||[/COLOR] [COLOR white] AVENTURA [/COLOR] [COLOR orangered]|||[/COLOR]</name>
+<name>[COLOR green]•[/COLOR] [COLOR white] AVENTURA [/COLOR]</name>
 <thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/junimkodi/junim/master/AVENTURA</externallink>
 <fanart></fanart>
@@ -39,7 +39,7 @@
 
 <channels>
 <channel>
-<name>[COLOR orangered]|||[/COLOR] [COLOR white] COMEDIA [/COLOR] [COLOR orangered]|||[/COLOR]</name>
+<name>[COLOR green]•[/COLOR] [COLOR white] COMEDIA [/COLOR]</name>
 <thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/junimkodi/junim/master/COMEDIA</externallink>
 <fanart></fanart>
