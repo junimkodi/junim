@@ -92,6 +92,50 @@ Sistema Brasileiro de Televisão é uma rede de televisão comercial aberta bras
 </item>
 
 <item>
+<title>[B]  Master TV - [/B]</title>
+<link>http://wowza4.catve.com.br:1935/mastertv/livestream/live.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>
+</info>
+<genre></genre>
+</item>
+
+
+<item>
+<title>[B]  Esporte Interativo Plus  - [/B]</title>
+<link>https://us-b4-p-e-ft6.cdn.mdstrm.com/live-stream/5bfc4171cb01650d5908a91a/playout/index-f2-v1-a1.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>
+</info>
+<genre></genre>
+</item>
+
+
+<item>
+<title>[B] CBN São Paulo  - [/B]</title>
+<link>https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>
+</info>
+<genre></genre>
+</item>
+
+
+<item>
+<title>[B] ALL Sports  - [/B]</title>
+<link>https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>
+</info>
+<genre></genre>
+</item>
+
+
+<item>
 <title>[B]  [HD]  -[/B]</title>
 <link></link>
 <thumbnail>g</thumbnail>
