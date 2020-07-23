@@ -23,7 +23,7 @@ Sistema Brasileiro de Televisão é uma rede de televisão comercial aberta bras
 <item>
 <title>[B] BAND SP HD  -[/B]</title>
 <link>http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist_w210441685.m3u8</link>
-<thumbnail></thumbnail>
+<thumbnail>https://3.bp.blogspot.com/-TgdhxoD4Y04/WNQYD8biK0I/AAAAAAAA2lE/w6hypXwKnDQSEU52RG0VdL_mA-AG3Y93wCLcB/s1600/band-logo.jpg</thumbnail>
 <fanart></fanart>
 <info>
 </info>
@@ -33,7 +33,7 @@ Sistema Brasileiro de Televisão é uma rede de televisão comercial aberta bras
 <item>
 <title>[B]  TV CULTURA -[/B]</title>
 <link>https://cdn.jmvstream.com/w/LVW-8403/LVW8403_bIBvekk9QA/playlist.m3u8</link>
-<thumbnail></thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1200px-Cultura_logo_2013.svg.png</thumbnail>
 <fanart></fanart>
 <info>
 </info>
@@ -43,7 +43,7 @@ Sistema Brasileiro de Televisão é uma rede de televisão comercial aberta bras
 <item>
 <title>[B]  SBT -[/B]</title>
 <link>https://59e4b6c1beddc.streamlock.net/pioneira-tv3/pioneira-tv3/chunklist_w1144442710.m3u8</link>
-<thumbnail></thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1200px-Logotipo_do_SBT.svg.png</thumbnail>
 <fanart></fanart>
 <info>
 </info>
@@ -53,9 +53,11 @@ Sistema Brasileiro de Televisão é uma rede de televisão comercial aberta bras
 <item>
 <title>[B] RECORD NEWS [HD]  -[/B]</title>
 <link>https://59f2354c05961.streamlock.net:1443/fundacao/_definst_/fundacao/chunklist_w1088693847.m3u8</link>
-<thumbnail></thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/c/c7/Logotipo_da_Record_News_%282016%29.png</thumbnail>
 <fanart></fanart>
 <info>
 </info>
 <genre></genre>
 </item>
+
+
