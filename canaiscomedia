@@ -13,11 +13,59 @@ Sistema Brasileiro de Televisão é uma rede de televisão comercial aberta bras
 <item>
 <title>[B] RECORD SP HD  -[/B]</title>
 <link>http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8</link>
-<thumbnail></thumbnail>
-<fanart>https://cdn.folhape.com.br/upload/dn_arquivo/2019/11/rede-record.jpg</fanart>
+<thumbnail>https://cdn.folhape.com.br/upload/dn_arquivo/2019/11/rede-record.jpg</thumbnail>
+<fanart></fanart>
 <info>
 </info>
 <genre></genre>
 </item>
 
+<item>
+<title>[B] BAND SP HD  -[/B]</title>
+<link>http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist_w210441685.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>
+</info>
+<genre></genre>
+</item>
 
+<item>
+<title>[B] CNN BRASIL  -[/B]</title>
+<link>https://streaming.cnnbrasil.com.br/cnndigital_mainOutput2.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>
+</info>
+<genre></genre>
+</item>
+
+<item>
+<title>[B]  TV CULTURA -[/B]</title>
+<link>https://cdn.jmvstream.com/w/LVW-8403/LVW8403_bIBvekk9QA/playlist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>
+</info>
+<genre></genre>
+</item>
+
+<item>
+<title>[B]  SBT -[/B]</title>
+<link>https://59e4b6c1beddc.streamlock.net/pioneira-tv3/pioneira-tv3/chunklist_w1144442710.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>
+</info>
+<genre></genre>
+</item>
+
+<item>
+<title>[B] RECORD NEWS [HD]  -[/B]</title>
+<link>https://59f2354c05961.streamlock.net:1443/fundacao/_definst_/fundacao/chunklist_w1088693847.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>
+</info>
+<genre></genre>
+</item>
