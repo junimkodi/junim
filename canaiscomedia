@@ -11,6 +11,16 @@ Sistema Brasileiro de Televisão é uma rede de televisão comercial aberta bras
 
 
 <item>
+<title>[B] CINE +  -[/B]</title>
+<link>http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8</link>
+<thumbnail>https://i.ytimg.com/vi/ylkJtfK2F9k/hqdefault.jpg</thumbnail>
+<fanart></fanart>
+<info>
+</info>
+<genre></genre>
+</item>
+
+<item>
 <title>[B] RECORD SP HD  -[/B]</title>
 <link>http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8</link>
 <thumbnail>https://cdn.folhape.com.br/upload/dn_arquivo/2019/11/rede-record.jpg</thumbnail>
